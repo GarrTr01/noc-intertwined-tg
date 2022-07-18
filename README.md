@@ -20,6 +20,10 @@ New tools have been given to the NOC to increase success rate and productivity, 
 
 •	Accuracy – 95% accuracy of all Severities, outstanding iSIT tickets, and monitoring escalation. 
 
+## Feedback
+
+If you have any feedback, please reach out to me directly at Trevor.Garrett@LexisNexisRisk.com
+
 ## Quick Links
 
  - [FAQ - NOC](https://confluence.rsi.lexisnexis.com/pages/viewpage.action?spaceKey=NW&title=NOC+Self+Service+Page)
